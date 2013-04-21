@@ -1,0 +1,14 @@
+c:\users\pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\bin\Debug\SpaceApps.exe.config
+c:\users\pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\bin\Debug\SpaceApps.exe
+c:\users\pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\bin\Debug\SpaceApps.pdb
+c:\users\pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\obj\Debug\SpaceApps.csprojResolveAssemblyReference.cache
+c:\users\pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\obj\Debug\SpaceApps.exe
+c:\users\pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\obj\Debug\SpaceApps.pdb
+c:\users\pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\bin\Debug\AForge.dll
+c:\users\pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\bin\Debug\AForge.Imaging.dll
+c:\users\pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\bin\Debug\AForge.Math.dll
+c:\users\pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\bin\Debug\AForge.xml
+c:\users\pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\bin\Debug\AForge.Imaging.xml
+c:\users\pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\bin\Debug\AForge.Math.xml
+C:\Users\Pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\bin\Debug\DataConsomer.dll
+C:\Users\Pablo\documents\visual studio 2012\Projects\SpaceApps\SpaceApps\bin\Debug\DatasetServicoLibrary.dll
